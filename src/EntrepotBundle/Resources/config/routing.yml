@@ -1,0 +1,3 @@
+entrepot_homepage:
+    path:     /
+    defaults: { _controller: EntrepotBundle:Default:index }
